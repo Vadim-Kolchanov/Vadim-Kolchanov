@@ -1,10 +1,8 @@
 # Hello world!<a href="https://github.com/Vadim-Kolchanov"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> My name is Vadim Kolchanov
 
----
-
 ### ✨ About Me:
 
-I am a Backend Developer with 3+ years of experience in developing enterprise applications. 
+I am a Backend Developer with 3+ years of experience in developing enterprise applications. I have experience in companies that develop products that many people use. Therefore, I am happy to work with great teams to create great apps and I am proud that my work brings profit to people.
 
 I have a bachelor's degree in fundamental physics (equivalent computer science). An example of my scientific activity can be found in an [article](https://www.researchgate.net/publication/344861906) published in an international scientific journal. During my studies, I liked programming classes (we wrote in such languages as Pascal, C++, Matlab, Fortran, Mathematica, Python), so after graduation from the university I completely immersed myself in development. 
 
@@ -31,9 +29,9 @@ I have had experience work with:
 
 ### 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-kolchanov/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005202818751) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kolchanov.dev/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-kolchanov/)
 
 ---
 
